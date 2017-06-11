@@ -1,0 +1,1 @@
+Start Kurs2.sln "C:\Users\Юыху\Documents\Visual Studio 2010\Projects\Kurs2"
